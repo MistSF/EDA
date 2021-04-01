@@ -2,3 +2,4 @@ Data/
 Data/*
 .vscode/
 env
+data/
